@@ -1,13 +1,3 @@
-# Поставить в соответствие следующим английским символам русские буквы:
-# h – х, 
-# e – е, 
-# l – л, 
-# o – о, 
-# w – в, 
-# r – р, 
-# d – д
-# и преобразовать строку «hello world!» в русские символы
-
 english: str = 'helowrd' 
 russian: str = 'хеловрд'
 symbols: dict = dict(zip(english, russian)) # zip is used to combine iterated objects. 

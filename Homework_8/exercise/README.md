@@ -1,1 +1,0 @@
-Practice by function
